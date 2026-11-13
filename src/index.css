@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sorbet-1: #9a8194;
+  --color-sorbet-2: #c89fa3;
+  --color-sorbet-3: #ebc3b4;
+  --color-sorbet-4: #f7e1c6;
+  --color-sorbet-5: #fdf6ec;
+}
+
+* {
+  box-sizing: border-box;
+}
